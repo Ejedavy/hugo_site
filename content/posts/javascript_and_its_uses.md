@@ -1,7 +1,7 @@
 +++
 title = 'Javascript and its uses'
 date = 2024-02-18T19:07:45+03:00
-draft = true
+draft = false
 +++
 
 
